@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512645943 source:c:\users\dancy\documents\codeblocks\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
